@@ -12,4 +12,4 @@ NaturalMC is an upcoming resource pack for Minecraft. This resource pack will be
 *My plans for NaturalMC is to take a bunch of resource packs and combine them into one resource pack. I'll also be adding my own changes to the resource pack aswell. All packs that I use will be given there proper credit below.*
 
 **Resource Packs Used**
-- Faithful
+![Point](https://i.pinimg.com/originals/5b/d5/a6/5bd5a6590aae69ad640c8e7aa38c72ae.png) Faithful
