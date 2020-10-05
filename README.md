@@ -15,5 +15,5 @@ I am actually looking for people who would be willing to test out beta versions 
 before they get released to the public.
 
 
-# ![QukPack](https://i.imgur.com/cy8xmxP.gif) Plans for QukPack
+# ![QukPack](https://im2.ezgif.com/tmp/ezgif-2-53e623944584.gif) Plans for QukPack
 *As of right now I'm working on the simple textures for blocks and items. I would like to keep this game looking original as possible, with little changes. I like minecraft the way it is, so I'll only be making minor changes to blocks/items*
