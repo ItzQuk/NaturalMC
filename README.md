@@ -10,6 +10,7 @@ QukPack is an upcoming resource pack for Minecraft. This resource pack will be u
 *This resource pack is very new, it's currently just an idea. Once I start designing the resource pack, I'll begin to release versions of the resource pack. Until then, this pack will be unavailable for download.*
 
 **Private Beta**
+<br>
 I am actually looking for people who would be willing to test out beta versions of the resource pack
 before they get released to the public.
 
