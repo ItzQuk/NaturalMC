@@ -1,4 +1,4 @@
-<center>![Logo](https://static1.textcraft.net/data1/0/3/03e0125c2c14ba7525b63d2ecb78629fd7aebf53da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd80709e7780dcc22a0dd6e68e9389390353dd9.png)</center>
+<center><img src="https://static1.textcraft.net/data1/0/3/03e0125c2c14ba7525b63d2ecb78629fd7aebf53da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd80709e7780dcc22a0dd6e68e9389390353dd9.png"</img></center>
 
 ![NaturalMC](https://pbs.twimg.com/media/Ejkqz1tWkAcp5xz?format=jpg&name=4096x4096)
 
