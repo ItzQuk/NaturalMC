@@ -11,6 +11,6 @@ NaturalMC is an upcoming resource pack for Minecraft. This resource pack will be
 # ![NaturalMC](https://i.imgur.com/wOQzmom.gif) Plans for NaturalMC
 *My plans for NaturalMC is to take a bunch of resource packs and combine them into one resource pack. I'll also be adding my own changes to the resource pack aswell. All packs that I use will be given there proper credit below.*
 
-**Resource Packs Used**
+![PackPNG](https://i.imgur.com/wYxTW3l.jpg) **Resource Packs Used**
 <br>
 *Not available yet.*
