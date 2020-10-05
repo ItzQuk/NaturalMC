@@ -4,3 +4,7 @@ QukPack is an upcoming resource pack for Minecraft. This resource pack will be u
 
 ![QukPack](https://i.imgur.com/TPmCSr8.jpg)
 *Not offical image of resource pack.*
+
+
+# *Beta Release?*
+*This resource pack is very new, it's currently just an idea. Once I start designing the resource pack, I'll begin to release public versions of the resource pack. Until then, this pack will be unavailable for download.
