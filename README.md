@@ -7,9 +7,6 @@ NaturalMC is an upcoming resource pack for Minecraft. This resource pack will be
 # ![NaturalMC](https://i.imgur.com/wOQzmom.gif) Release Date
 *This resource pack is very new, it's currently just an idea. Once I start designing the resource pack, I'll begin to release versions of the resource pack. Until then, this pack will be unavailable for download.*
 
-# ![NaturalMC](https://i.imgur.com/wOQzmom.gif) Private Beta
-*At this current stage of the project, I'm not really looking for people to help with the project. There isn't enough progress made to invite beta testers. If I start making progress, I'll look into hiring some beta testers.*
-
 
 # ![NaturalMC](https://i.imgur.com/wOQzmom.gif) Plans for NaturalMC
 *My plans for NaturalMC is to take a bunch of resource packs and combine them into one resource pack. I'll also be adding my own changes to the resource pack aswell. All packs that I use will be given there proper credit below.*
