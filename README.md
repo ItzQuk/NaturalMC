@@ -14,5 +14,3 @@ NaturalMC is an upcoming resource pack for Minecraft. This resource pack will be
 ![PackPNG](https://i.imgur.com/wYxTW3l.jpg) **Resource Packs Used**
 <br>
 *Not available yet.*
-
-![NaturalMC](https://compass-ssl.xbox.com/assets/a7/74/a77438db-e4f8-4d30-92b4-5b26f246219f.jpg?n=Minecraft_Sneaky-Slider-1084_Aquatic_1600x675.jpg)
