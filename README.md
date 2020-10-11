@@ -4,7 +4,7 @@
 *NaturalMC is an upcoming resource pack for Minecraft. This resource pack will be using a combination of multiple resource packs and combining them into one simple resource pack for you to use. The full list of Resource packs used in this resource pack will be announced at a later date. This project is still being worked on and does **not** have a set release date yet.*
 
 
-# ![NaturalMC](https://i.imgur.com/wOQzmom.gif) Release Date
+# ![NaturalMC](https://i.imgur.com/wOQzmom.gif) Where to Download?!
 *The first version of the resrouce pack is available for download [here](https://github.com/ItzQuk/NaturalMC/releases)*
 
 # ![NaturalMC](https://i.imgur.com/wOQzmom.gif) Plans for NaturalMC
