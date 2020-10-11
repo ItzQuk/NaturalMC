@@ -13,4 +13,3 @@
 ![PackPNG](https://i.imgur.com/wYxTW3l.jpg) **Resource Packs Used**
 <br>
 - [Faithful x32](https://www.curseforge.com/minecraft/texture-packs/faithful-32x)
-- [Naturus Classic](https://primemods.net/naturus-classic/)
