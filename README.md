@@ -13,3 +13,4 @@
 ![PackPNG](https://i.imgur.com/wYxTW3l.jpg) **Resource Packs Used**
 <br>
 - [Faithful x32](https://www.curseforge.com/minecraft/texture-packs/faithful-32x)
+- [BetterVanillaBuilding](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding/)
